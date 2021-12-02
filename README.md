@@ -1,2 +1,0 @@
-# Mysecondrepo
-My second repository
